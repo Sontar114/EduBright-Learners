@@ -1,10 +1,11 @@
 ### EduBright-Learners
 a web-based learning platform tailored for elementary school children, focusing on History, Math, and Grammar. The platform aims to provide engaging and interactive educational content through a user-friendly interface.
 
-# Project Plan and Design Documentation
-# Project Overview
+## Plan and Design Documentation
 # Title: Interactive Educational Platform for Elementary School Children
+
 # Objective: Develop a web-based learning platform tailored for elementary school children, focusing on History, Math, and Grammar. The platform aims to provide engaging and interactive educational content through a user-friendly interface.
+
 # Target Audience
 Primary Users: Elementary school children (ages 6-12)
 Secondary Users: Teachers and parents who may assist children in using the platform or track their progress.
